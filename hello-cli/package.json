@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "@mattieb/hello": "file:../hello"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
   }
 }
