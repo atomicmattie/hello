@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mattieb/hello": "file:../hello"
+  }
+}
